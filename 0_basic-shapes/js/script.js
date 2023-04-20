@@ -1,0 +1,6 @@
+basicShapesApp.init()
+basicShapesApp.drawFilledRectangle()
+basicShapesApp.drawLines()
+basicShapesApp.drawDashedLines()
+basicShapesApp.drawCircle()
+basicShapesApp.drawText('POPINO ES AMOR')

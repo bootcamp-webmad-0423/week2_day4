@@ -1,0 +1,1 @@
+animateApp.init()
